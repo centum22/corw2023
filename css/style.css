@@ -310,7 +310,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.5s;
 }
 .gtco-video:hover .overlay {
-  background: rgba(0, 0, 0, 0.7);
+  background: rgba(0, 0, 0, 0.5);
 }
 .gtco-video:hover a {
   position: relative;
